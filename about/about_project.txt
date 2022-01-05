@@ -1,0 +1,16 @@
+coronavirus map
+
+a map application using leaflet gatsby starter created by a freecodecamp developer.
+
+it uses axios to fetch API data
+
+Prerequiste installations:
+-node/yarn/npm
+-gatsby CLI
+
+tools will be used
+starter URL - a boilerplate created by freecodecamp using *leaflet and *ReactLeaflet
+
+leaflet - js library for mobile friendly interative maps
+
+React leaflet - provide bindings between React and Leaflet which it abstract leaflet layers as React commponents
